@@ -1,0 +1,25 @@
+{
+  "name": "hutor_bot",
+  "version": "1.0.0",
+  "description": "beer hutor bot sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvaduha/hutor_bot.git"
+  },
+  "author": "gvaduha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvaduha/hutor_bot/issues"
+  },
+  "homepage": "https://github.com/gvaduha/hutor_bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
